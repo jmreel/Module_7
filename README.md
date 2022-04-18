@@ -1,2 +1,2 @@
-# Module_7
-Pewlett Hackard Challenge
+# Pewlett-Hackard-Analysis
+Module 7
