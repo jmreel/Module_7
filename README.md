@@ -26,5 +26,5 @@ Pewlett Hackard is a large company that has been around for a long time. They ar
 
 ## Summary:
 
-With a large portion of Pewlett Hackard workforce retiring soon they will need to fill 72,458 positions. This means Pewlett Hackard will need to focus a substantial of their effort on replacing these upcoming vacancy. As seen in table “Retiring Titles” the senior positions have the most employees who will retire soon, making the mentorship program a great idea to help assist in such a large turnover rate. While Pewlett Hackard has a lot of work to do, they have the information they need to start preparing for the upcomin
+With a large portion of Pewlett Hackard workforce retiring soon they will need to fill 72,458 positions. This means Pewlett Hackard will need to focus a substantial amount of their effort on replacing these upcoming vacancies. As seen in table “Retiring Titles” the senior positions have the most employees who will retire soon, making the mentorship program a great idea to help assist in such a large turnover rate. While Pewlett Hackard has a lot of work to do, they have the information they need to start preparing for the upcoming change.
 
